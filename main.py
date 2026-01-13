@@ -29,9 +29,9 @@ for dado in dados:
     mensagem.HTMLBody = f"""
     <p>Prezado Cliente,</p>
 
-    <p>Estamos entrando em contato para informar que há um boleto com vencimento em <strong>{vencimento}</strong> no valor de <strong>R${valor:.2f}</strong></p>
+    <p>Estamos entrando em contato, para lembrá-lo que existe(m) boleto(s) com vencimento em <strong>{vencimento}</strong> no valor de <strong>R${valor:.2f}</strong></p>
     
-    <p>Por gentileza, pedimos que verifique e caso não tenha o boleto, favor entrar em contato conosco!</p>
+    <p>Por gentileza, pedimos que verifique e caso não tenha o(s) boleto(s), favor entrar em contato conosco!</p>
 
     <p>Caso já tenha efetuado o pagamento, por favor desconsidere este aviso.</p>
 

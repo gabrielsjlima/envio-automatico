@@ -1,0 +1,1 @@
+"C:\Users\Usuario\AppData\Local\Programs\Python\Python313\python.exe" "C:\Users\Usuario\Documents\envio_automatico\main.py"
